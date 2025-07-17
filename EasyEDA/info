@@ -1,0 +1,322 @@
+{
+  "uuid": "774cf73d677cd398ccbdfb041de235ff",
+  "path": "Offline/EXP32_REV1.0",
+  "name": "EXP32_REV1.0",
+  "content": "",
+  "created_at": "2025-06-07 11:56:58",
+  "updated_at": "2025-07-17 18:25:26",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "cdaffa2c2d469718ec8bc29b465f47eb",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f3fe56761e5d4bb49b034efdb56ea9e7": 1,
+        "00becd242a5748c0a2dee9be7b985dbc": 2,
+        "594fb4f19a56460296883f5a5ee520fa": 1,
+        "04b7d8073e854006b41709a96b7a21a9": 1,
+        "7619bb22ba3343f38e9ddf8d7f9273a2": 2,
+        "8b8f2c4b0f1a4c05b9bf99dce6e3b5cc": 1,
+        "47b55e59631553df73a52e76573a2d5c": 1,
+        "2cbbccf860a84ef9a9976b6bb9db0243": 2,
+        "154b66255b01a09bf1c88bb1ea89be78": 9,
+        "9e0eced329e241a390924a11deca01dd": 5,
+        "8e06176593c83cb1ac26267a81465057": 4,
+        "7f7e25e4080c4d5ea6b7eb27c71d581e": 2,
+        "588dac9f81df8f83843513972963b454": 1,
+        "acf7f4418284416a8af31489e7fcda7a": 2,
+        "9fcf60b446264c39af4335e373f76edb": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          9,
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "DC3-2.54-10PAS",
+          2,
+          "CONN-TH_10P-P2.54_DC3-2.54-10PAS",
+          "CN1,CN2",
+          {
+            "Manufacturer Part": "DC3-2.54-10PAS",
+            "Manufacturer": "ZHOURI(洲日)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2977596"
+          }
+        ],
+        [
+          "1N5819HW-7-F",
+          1,
+          "SOD-123_L2.7-W1.6-LS3.7-RD",
+          "D1",
+          {
+            "Manufacturer Part": "1N5819HW-7-F",
+            "Manufacturer": "DIODES(美台)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C82544"
+          }
+        ],
+        [
+          "KH-2.54PH180-1X22P-L11.5",
+          1,
+          "HDR-TH_22P-P2.54-V-M",
+          "H1",
+          {
+            "Manufacturer Part": "KH-2.54PH180-1X22P-L11.5",
+            "Manufacturer": "kinghelm(金航标)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C20610289"
+          }
+        ],
+        [
+          "XL-1608SURC-06",
+          2,
+          "LED0603-RD_RED",
+          "LED1,LED2",
+          {
+            "Manufacturer Part": "XL-1608SURC-06",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C965799"
+          }
+        ],
+        [
+          "SS8050-G",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "SS8050-G(RANGE:120-200)",
+            "Manufacturer": "CJ(江苏长电/长晶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C164886"
+          }
+        ],
+        [
+          "1kΩ",
+          4,
+          "R0603",
+          "R1,R3,R4,R5",
+          {
+            "Manufacturer Part": "RC0603FR-071KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22548"
+          }
+        ],
+        [
+          "10kΩ",
+          5,
+          "R0603",
+          "R2,R6,R7,R10,R11",
+          {
+            "Manufacturer Part": "RC0603FR-0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C98220"
+          }
+        ],
+        [
+          "5.1kΩ",
+          2,
+          "R0603",
+          "R8,R9",
+          {
+            "Manufacturer Part": "RC0603FR-075K1L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C105580"
+          }
+        ],
+        [
+          "TS-1088-AR02016",
+          2,
+          "SW-SMD_L3.9-W3.0-P4.45",
+          "SW1,SW2",
+          {
+            "Manufacturer Part": "TS-1088-AR02016",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C720477"
+          }
+        ],
+        [
+          "ESP-WROOM-32",
+          1,
+          "WIFIM-SMD_ESP-WROOM-32",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32-WROOM-32",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C95209"
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U2",
+          {
+            "Manufacturer Part": "AMS1117-3.3",
+            "Manufacturer": "AMS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6186"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "CAP-SMD_L3.2-W1.6",
+          "U3,U4",
+          {
+            "Manufacturer Part": "TMCMA1C106KTRF",
+            "Manufacturer": "VISHAY(威世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4988312"
+          }
+        ],
+        [
+          "CH340C",
+          1,
+          "SOP-16_L10.0-W3.9-P1.27-LS6.0-BL",
+          "U5",
+          {
+            "Manufacturer Part": "CH340C",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84681"
+          }
+        ],
+        [
+          "TYPE-C 16PIN 2MD(073)",
+          1,
+          "USB-C-SMD_TYPE-C-6PIN-2MD-073",
+          "USB1",
+          {
+            "Manufacturer Part": "TYPE-C 16PIN 2MD(073)",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2765186"
+          }
+        ]
+      ],
+      "updateTime": 1749475110,
+      "createTime": 1749272218,
+      "histories": [],
+      "created_at": "2025-06-07 11:56:58",
+      "updated_at": "2025-06-09 20:18:30"
+    },
+    {
+      "uuid": "2240bcb562c020bff8034c7ad6cf2a39",
+      "puuid": "774cf73d677cd398ccbdfb041de235ff",
+      "title": "PCB_EXP32_REV1.0",
+      "filename": "PCB_EXP32_REV1.0.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 9,
+        "398691f1f785460098bbe5ee6590333c": 11,
+        "02ae667aca734971be8a5f58143dd564": 1,
+        "5a7e9ad3682242f88608293ce637ea1d": 1,
+        "c14b69f696a84be0994330db0de53812": 1,
+        "6200581e048848138c6a279857b8523f": 2,
+        "267a6f7006e64285b145cfc7f6180b7f": 2,
+        "bade90667a6e4731855e9a223387b8a6": 2,
+        "2b2a7bab00354c19b76a8043f7520dcf": 2,
+        "563fa5bf3cbe40ccb80d8e67471657f8": 2,
+        "bf1b7b0953d842979fbb5acfa9df7d18": 1,
+        "72eed90ca283493bb2f3b0ea7c165dd0": 1,
+        "48c02df13e5e454c8ab3123cb3446ff0": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DC3-2.54-10PAS",
+          2,
+          "CONN-TH_10P-P2.54_DC3-2.54-10PAS",
+          "CN1,CN2",
+          {
+            "Manufacturer Part": "DC3-2.54-10PAS",
+            "Manufacturer": "ZHOURI(洲日)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2977596"
+          }
+        ],
+        [
+          "ESP-WROOM-32",
+          1,
+          "WIFIM-SMD_ESP-WROOM-32",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32-WROOM-32",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C95209"
+          }
+        ],
+        [
+          "2.54-1*4",
+          1,
+          "HDR-TH_4P-P2.54-V-M-1",
+          "U2",
+          {
+            "Manufacturer Part": "2.54-1*4",
+            "Manufacturer": "ZHOURI(洲日)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5116483"
+          }
+        ],
+        [
+          "KH-2.54PH180-1X22P-L11.5",
+          1,
+          "HDR-TH_22P-P2.54-V-M",
+          "H1",
+          {
+            "Manufacturer Part": "KH-2.54PH180-1X22P-L11.5",
+            "Manufacturer": "kinghelm(金航标)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C20610289"
+          }
+        ]
+      ],
+      "updateTime": 1752751526,
+      "createTime": 1749282146,
+      "histories": [],
+      "created_at": "2025-06-07 14:42:26",
+      "updated_at": "2025-07-17 18:25:26"
+    }
+  ],
+  "sort": [],
+  "title": "EXP32_REV1.0",
+  "foldername": "EXP32_REV1.0",
+  "schfilename": "EXP32_REV1.0.json",
+  "schfilemtime": 1749475110715
+}
